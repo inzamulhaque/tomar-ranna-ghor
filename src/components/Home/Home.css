@@ -1,0 +1,14 @@
+.searchBox {
+    border: none;
+    border-bottom: 1px solid #000;
+    outline: none !important;
+}
+
+.searchBox:focus {
+    outline: none !important;
+    box-shadow: none;
+}
+
+.searchRow {
+    align-items: center;
+}
